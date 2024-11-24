@@ -1,11 +1,11 @@
-const sumArray = (numbers: number[]): void => {
+const sumArray = (numbers: number[]): number => {
   let sum: number = 0;
 
   numbers.forEach((num) => {
     sum += num;
   });
 
-  console.log(sum);
+  return sum;
 };
 
-sumArray([1, 2, 3, 4, 5]);
+console.log(sumArray([1, 2, 3, 4, 5]));
