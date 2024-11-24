@@ -1,4 +1,4 @@
-# Union and Intersection Types in TypeScript
+# The significance of union and intersection types in Typescript.
 
 ![](https://www.orientsoftware.com/Themes/Content/Images/blog/2023-11-13/typescript-introduction.jpg)
 
